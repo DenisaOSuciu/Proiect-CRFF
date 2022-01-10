@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SMC</string>
+    <string-array name="genderValues">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="categorii">
+        <item>Bluze</item>
+        <item>Tricouri</item>
+        <item>Pantaloni</item>
+        <item>Gegi</item>
+        <item>Pijamale</item>
+        <item>Camasi</item>
+        <item>Jeans</item>
+    </string-array>
+
+    <string-array name="descriere_categorii">
+        <item>Descriere</item>
+        <item>Descriere</item>
+        <item>Descriere</item>
+        <item>Dscriere</item>
+        <item>Dscriere</item>
+        <item>Dscriere</item>
+        <item>Dscriere</item>
+
+    </string-array>
+</resources>
